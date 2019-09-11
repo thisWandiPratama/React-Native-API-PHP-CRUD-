@@ -10,6 +10,6 @@ $DatabaseName = "id6896565_datasiswa";
 $HostUser = "id6896565_datasiswa";
 
 //Define your database password here.
-$HostPass = "datasiswa";
+$HostPass = "";
 
 ?>
